@@ -6,6 +6,6 @@ class TestSlashR{
 	System.out.println("abc\b\bdefgh");//adcefgh
 	System.out.println("abcdefg\b\bh");//abcdehg
 	System.out.println("abcdefg\b\b\b\bh");//abchefg
-	System.out.println("abcde\b\b\b\bfgh");afghe
+	System.out.println("abcde\b\b\b\bfgh");//afghe
     }
 }
